@@ -15,4 +15,4 @@ libraryDependencies ++= Seq(
 enablePlugins(DebianPlugin)
 maintainer := "Spike"
 packageSummary := "My custom package"
-packageDecription := "Package"
+packageDescription := "Package"
